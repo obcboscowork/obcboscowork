@@ -106,13 +106,6 @@ A fun interactive Valentine's Day page — where the "No" button dodges, shrinks
 
 ---
 
-## 📊 GitHub Stats
-
-![Oishik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obcboscowork&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obcboscowork&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Get In Touch
 
 - 📧 oishikchoudhuryit@gmail.com
