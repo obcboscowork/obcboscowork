@@ -1,6 +1,6 @@
 # Hi, I'm Oishik Bhanja Choudhury 👋
 
-### MSc Computer Science @ TU Clausthal | Full Stack Developer | Software & Data Tooling
+### MSc Computer Science @ TU Clausthal | Full Stack Developer | MERN STACK | Open to werkstudent roles in Germany
 
 📍 Magdeburg, Germany &nbsp;|&nbsp; 🎓 Currently studying & building &nbsp;|&nbsp; 💼 Open to Werkstudent roles
 
