@@ -13,14 +13,15 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Master's student in **Computer Science** at Technische Universität Clausthal, Germany
-- 🛠️ Currently building **CHRONOEVER** — a full-stack MERN e-commerce app (React · Node.js · Express · MongoDB)
+- 🛠️ Currently building **CHRONOEVER** — a full-stack MERN e-commerce app (React · Node.js · Express · MongoDB) — **now live on Vercel!**
 - 🔬 Published MSc research on **Dynamic URL Ranking via Session Tracking** — accepted at TU Clausthal
 - 💼 4+ years of professional experience in software tooling, data reporting & digital marketing
+- 🏫 Completed the **42 Wolfsburg Piscine** — intensive C programming with daily exams, no teachers
 - 🌱 Actively learning: React, Node.js, Express, MongoDB, Tailwind CSS, Vercel deployment
 - 🇩🇪 Based in Germany — eligible to work, no sponsorship required
 - 🗣️ Languages: English (C1) · German (B1) · Hindi (Native) · Bengali (Native)
 
----A
+---
 
 ## 🛠️ Tech Stack
 
@@ -55,35 +56,53 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [CHRONOEVER — Full-Stack MERN E-Commerce](https://github.com/obcboscowork) `In Progress`
+### 🛒 [CHRONOEVER — Full-Stack MERN E-Commerce](https://github.com/obcboscowork/CHRONOEVER) — `Live` 🟢
 > React · Vite · Tailwind CSS · Node.js · Express · MongoDB · Stripe · Razorpay · Vercel
 
-Full-stack e-commerce app with customer storefront, product filtering, cart, payments (Stripe & Razorpay), and admin dashboard. Being deployed on Vercel.
+Full-stack e-commerce application built from scratch using the MERN stack. Frontend is live and actively being developed — backend, payments, and admin dashboard coming next.
+
+🔗 **[Live Demo](https://chronoever.vercel.app/)**
+
+**✅ Completed so far:**
+- Responsive Navbar with mobile sidebar toggle
+- Hero section, LatestCollection, BestSeller, OurPolicy, NewsletterBox, Footer
+- ProductItem, SearchBar, Title reusable components
+- Collection page with filter sidebar (Categories & Type)
+- Euro (€) localisation · CHRONOEVER branding · React Router · Tailwind CSS
+- Frontend deployed on Vercel ✅
+
+**🔧 In progress:**
+- Product detail page · Cart system · Size variant selection
+- User authentication (JWT) · Order placement with delivery address
+- Payment integration: Stripe & Razorpay · Cash on Delivery
+- Admin dashboard: product upload, deletion, order management
+- Backend: Node.js + Express + MongoDB API
+- Full Vercel deployment (frontend + backend)
 
 ---
 
-### 🔍 [Dynamic URL Ranking Search Engine](https://github.com/obcboscowork/Dynamic-URL-search-engine) — `Live`
+### 🔍 [Dynamic URL Ranking Search Engine](https://github.com/obcboscowork/Dynamic-URL-search-engine) — `Live` 🟢
 > JavaScript · Apache · MySQL · Cookie Management · HTTP Sessions · Three-Tier Architecture
 
-**MSc Research Project — Accepted at TU Clausthal.** A session-tracking search engine that dynamically re-ranks URLs based on time users spend on each page. Live demo available.
+**MSc Research Project — Accepted at TU Clausthal.** A session-tracking search engine that dynamically re-ranks URLs based on time users spend on each page. Records Entry Time, Exit Time, Session Duration and Search Count per URL.
 
-🔗 [Live Demo](https://obcboscowork.github.io/Dynamic-URL-search-engine/)
+🔗 **[Live Demo](https://obcboscowork.github.io/Dynamic-URL-search-engine/)**
 
 ---
 
 ### ☕ [Student Database Management System](https://github.com/obcboscowork/java-oop-practice)
 > Java · OOP · Encapsulation
 
-Java OOP project demonstrating encapsulation with private fields, validated getters/setters, and a full test suite covering valid and invalid input scenarios.
+Java OOP project demonstrating encapsulation with private fields, validated getters/setters that block invalid data, and a full test suite covering valid updates, invalid update blocking, pass/fail logic and grade-to-letter results.
 
 ---
 
-### 💘 [ValentinesChoice](https://github.com/obcboscowork/ValentinesChoice) — `Live`
+### 💘 [ValentinesChoice](https://github.com/obcboscowork/ValentinesChoice) — `Live` 🟢
 > HTML · CSS · JavaScript · DOM Manipulation · GitHub Pages
 
-A fun interactive Valentine's Day page — where the "No" button dodges, shrinks and disappears. Built with pure JavaScript DOM manipulation. Deployed on GitHub Pages.
+A fun interactive Valentine's Day page — where the "No" button dodges, shrinks and disappears. Built with pure JavaScript DOM manipulation.
 
-🔗 [Live Demo](https://obcboscowork.github.io/ValentinesChoice/)
+🔗 **[Live Demo](https://obcboscowork.github.io/ValentinesChoice/)**
 
 ---
 
@@ -98,24 +117,8 @@ A fun interactive Valentine's Day page — where the "No" button dodges, shrinks
 
 - 📧 oishikchoudhuryit@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/oishik-digital-lead/)
-- 🌐 [GitHub Pages](https://obcboscowork.github.io)
+- 🌐 [Live Projects](https://obcboscowork.github.io)
 
 ---
 
 *💡 Currently open to Werkstudent / part-time developer roles in Germany*
-## Hi there 👋
-
-<!--
-**obcboscowork/obcboscowork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
